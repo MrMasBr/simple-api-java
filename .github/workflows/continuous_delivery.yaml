@@ -1,4 +1,4 @@
-ckeoname: 1.0 continous delivery
+name: 1.0 continous delivery
 
 on:
     push:
