@@ -2,7 +2,7 @@ name: Continous delivery 1.0
 
 on:
     push:
-        branches: - develop
+        branches:  develop
  
 env:
   IMAGE_NAME: simple-api-java
