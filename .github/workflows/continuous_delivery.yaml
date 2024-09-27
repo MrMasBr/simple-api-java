@@ -1,4 +1,4 @@
-name: Continuous delivery 1.0
+name: Continuous delivery 1.00
 
 on:
     push:
